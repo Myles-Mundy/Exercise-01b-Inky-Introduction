@@ -1,9 +1,9 @@
 # FA24Exercise-01b-Inky-Introduction
 
-My name is:
+My name is: 
 
-[Your Name]
+Myles Mundy
 
 My github username is:
 
-[Your Username]
+Myles-Mundy
