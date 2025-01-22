@@ -2,8 +2,8 @@
 
 My name is: 
 
-Myles Mundy
+ Myles Mundy
 
 My github username is:
 
-Myles-Mundy
+ Myles-Mundy
